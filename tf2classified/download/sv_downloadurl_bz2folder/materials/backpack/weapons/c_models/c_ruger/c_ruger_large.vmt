@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "backpack/weapons/c_models/c_ruger/c_ruger_large.vtf"
+	"$translucent" 1
+	$vertexcolor 1
+}

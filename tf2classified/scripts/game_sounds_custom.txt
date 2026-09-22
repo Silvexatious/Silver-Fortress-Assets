@@ -1,0 +1,18 @@
+// ------------------------------------------------------------------------------------ //
+// Nail Gun for SMG
+// ------------------------------------------------------------------------------------ //
+"Weapon_NailGunSMG.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/nail_gun_shoot.wav"
+}
+
+"Weapon_NailGunSMG.SingleCrit"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/nail_gun_shoot_crit.wav"
+}
